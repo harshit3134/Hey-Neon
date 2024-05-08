@@ -1,0 +1,6 @@
+pvrecorder
+pvporcupine
+pyautogui
+langchain
+google-generativeai
+openai

@@ -1,0 +1,1 @@
+User (query) --> Voice to intent classification (using ChatGpt or LLM) --> Intent Function calling.
