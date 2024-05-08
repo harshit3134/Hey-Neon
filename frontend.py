@@ -6,7 +6,7 @@ from LLM import get_action
 
 def detect_wake_word():
     keywords = ["Hey Neon"]
-    access_key = "BqbXL8sPoEvB5xbIjW1jO5MaxKso/TnyVYdYNPE0bsIDflfYZ4ivGw=="
+    access_key = ""
     porcupine = pvporcupine.create(
         access_key=access_key,
         keyword_paths=['C:/Users/harsh/Desktop/College/Python/Voice-assistant/Hey-Neon_en_windows_v3_0_0.ppn']
